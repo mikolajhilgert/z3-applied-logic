@@ -1,0 +1,17 @@
+sat
+(
+  (define-fun D () Int
+    1)
+  (define-fun B () Int
+    3)
+  (define-fun Condition2 () Bool
+    true)
+  (define-fun C () Int
+    4)
+  (define-fun Condition3 () Bool
+    true)
+  (define-fun A () Int
+    2)
+  (define-fun Condition1 () Bool
+    true)
+)

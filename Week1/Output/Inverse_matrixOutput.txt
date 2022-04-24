@@ -1,0 +1,5 @@
+sat
+((InvTopLeft 2))
+((InvTopRight (- 1)))
+((InvBottomLeft (- 5)))
+((InvBottomRight 3))
