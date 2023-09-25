@@ -7,7 +7,7 @@
 ;Assert hints
 (assert (= (B 1 2) 3))
 (assert (= (B 1 3) 2))
-4
+
 (assert (= (B 3 1) 2))
 (assert (= (B 4 1) 2))
 

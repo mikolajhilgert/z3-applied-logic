@@ -1,3 +1,3 @@
 # APL_Hilgert_Tymofieienko
 
-Applied logic repository. 
+Applied logic course repository. 
